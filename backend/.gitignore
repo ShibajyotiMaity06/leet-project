@@ -1,0 +1,32 @@
+node_modules
+/node_modules
+.env
+env
+yedo.txt
+
+
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment
+.env
+.env.local
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/settings.json
+.idea/
+
+# Temp
+*.tmp
+temp/
